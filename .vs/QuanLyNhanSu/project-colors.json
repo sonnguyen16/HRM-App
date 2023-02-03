@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ba718dc4-0653-4f54-8c38-c58855b121c8": {
+      "ProjectGuid": "ba718dc4-0653-4f54-8c38-c58855b121c8",
+      "DisplayName": "GUI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

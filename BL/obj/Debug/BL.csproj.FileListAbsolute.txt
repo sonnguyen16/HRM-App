@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\QuanLyNhanSuVaKH\BL\bin\Debug\BL.dll.config
+C:\Users\USER\source\repos\QuanLyNhanSuVaKH\BL\bin\Debug\BL.dll
+C:\Users\USER\source\repos\QuanLyNhanSuVaKH\BL\bin\Debug\BL.pdb
+C:\Users\USER\source\repos\QuanLyNhanSuVaKH\BL\bin\Debug\DAL.dll
+C:\Users\USER\source\repos\QuanLyNhanSuVaKH\BL\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\repos\QuanLyNhanSuVaKH\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\source\repos\QuanLyNhanSuVaKH\BL\bin\Debug\DAL.pdb
+C:\Users\USER\source\repos\QuanLyNhanSuVaKH\BL\bin\Debug\DAL.dll.config
+C:\Users\USER\source\repos\QuanLyNhanSuVaKH\BL\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\repos\QuanLyNhanSuVaKH\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\source\repos\QuanLyNhanSuVaKH\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\QuanLyNhanSuVaKH\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\QuanLyNhanSuVaKH\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\USER\source\repos\QuanLyNhanSuVaKH\BL\obj\Debug\BL.dll
+C:\Users\USER\source\repos\QuanLyNhanSuVaKH\BL\obj\Debug\BL.pdb
